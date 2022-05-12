@@ -31,6 +31,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EgorDEV98" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EgorDEV98&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorDEV98&layout=compact" />
 </a>
 
