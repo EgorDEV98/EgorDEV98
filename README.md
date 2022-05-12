@@ -26,4 +26,4 @@
 </p>
 <hr>
 
-<a href="https://github.com/EgorDEV98"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=EgorDEV98/><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorDEV98/></a>
+<a href="https://github.com/EgorDEV98"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=EgorDEV98/>
