@@ -2,6 +2,7 @@
 
 <h3 align="center">
   Computer science student, IT news writer from Russia
+  ![Profile views](https://gpvc.arturio.dev/EgorDEV98)
 </h3>
 
 # Languages
@@ -24,5 +25,5 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EgorDEV98)
 
-![Profile views](https://gpvc.arturio.dev/EgorDEV98)
+
 
