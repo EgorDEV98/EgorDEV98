@@ -18,8 +18,6 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=EgorDEV98"/></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EgorDEV98)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorDEV98&show_icons=true&count_private=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/EgorDEV98)
