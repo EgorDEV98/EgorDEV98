@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&duration=2500&center=true&vCenter=true&width=1200&height=100&lines=Hello+everyone!%E2%9C%8C%F0%9F%8F%BB;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%B2%D1%81%D0%B5%D0%BC!%E2%9C%8C%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&duration=4500&center=true&vCenter=true&width=1200&height=100&lines=Hello+everyone!%E2%9C%8C%F0%9F%8F%BB;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%B2%D1%81%D0%B5%D0%BC!%E2%9C%8C%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 <h3 align="center">
   Computer science student, IT news writer from Russia
