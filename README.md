@@ -2,8 +2,8 @@
 
 <h3 align="center">
   Computer science student, IT news writer from Russia
-  ![Profile views](https://gpvc.arturio.dev/EgorDEV98)
 </h3>
+![Profile views](https://gpvc.arturio.dev/EgorDEV98)
 
 # Languages
 <h3>C, C++, C#, Javacript, NodeJS</h3>
@@ -24,6 +24,3 @@
 ![GitHub metrics](https://metrics.lecoq.io/EgorDEV98)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EgorDEV98)
-
-
-
