@@ -23,7 +23,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgorDEV98"/>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorDEV98&show_icons=true&count_private=true)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EgorDEV98)
-![Profile views](https://gpvc.arturio.dev/EgorDEV98)
+<p align="right">
+  <img src="https://gpvc.arturio.dev/EgorDEV98"/>
+</p>
