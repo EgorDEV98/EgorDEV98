@@ -20,7 +20,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorDEV98&show_icons=true&count_private=true)
 
-![GitHub metrics](https://metrics.lecoq.io/EgorDEV98)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EgorDEV98)
 ![Profile views](https://gpvc.arturio.dev/EgorDEV98)
